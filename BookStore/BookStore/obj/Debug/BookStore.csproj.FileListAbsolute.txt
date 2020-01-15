@@ -1,0 +1,6 @@
+C:\Users\lordv\Documents\GitHub\Inheritance\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\lordv\Documents\GitHub\Inheritance\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\lordv\Documents\GitHub\Inheritance\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\lordv\Documents\GitHub\Inheritance\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\lordv\Documents\GitHub\Inheritance\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\lordv\Documents\GitHub\Inheritance\BookStore\BookStore\obj\Debug\BookStore.pdb
